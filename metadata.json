@@ -1,0 +1,5 @@
+{
+  "name": "AeroSim Quadcopter",
+  "description": "A physics-based 3D quadcopter simulator using Three.js and Cannon.js with Apple-style aesthetics.",
+  "requestFramePermissions": []
+}
