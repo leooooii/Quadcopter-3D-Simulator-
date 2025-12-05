@@ -1,20 +1,20 @@
+
+
+# Quadcopter Simulation
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200"  alt="GHBanner" src="./components/quadcopter.gif" />
 </div>
 
-# Run and deploy your AI Studio app
+## Project Description
 
-This contains everything you need to run your app locally.
+This project is a quadcopter simulation built with **Three.js** for 3D rendering and **Cannon.js** for real-time physics. A **PID controller** is implemented to stabilize the flight system, allowing users to experience realistic quadcopter behavior and interact with a simple flight game.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1y9owQUcRB6iCjmPGiXy38IyIkdrLhI6c
+### Controls
 
-## Run Locally
+- **M** — Toggle motor power (start/stop)  
+- **Arrow Up / Down** — Ascend / Descend  
+- **Arrow Left / Right** — Yaw left / right  
+- **W / S** — Move forward / backward  
+- **A / D** — Roll left / right  
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project provides an accessible introduction to drone physics, flight control algorithms, and interactive 3D simulation in the browser.
