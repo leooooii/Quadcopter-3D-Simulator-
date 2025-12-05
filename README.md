@@ -9,7 +9,12 @@ This project demonstrates the fundamentals of drone stabilization and browser-ba
 
 ---
 Explore more on my website:  
-👉 **[Click to experience](https://leooooii.github.io/Quadcopter-3D-Simulator-/index.html)**
+
+<span style="font-size: 28px;">
+  <a href="https://leooooii.github.io/Quadcopter-3D-Simulator-/index.html" target="_blank">👉 Click to visit my portfolio</a>
+</span>
+
+---
 
 # 📘 Project Overview
 
